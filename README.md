@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I am George Gulubov</h1>
-<h3 align="center">I am an 18-year-old aspiring Frontend Developer, currently in my final year of high school. I am passionate about learning and growing in the IT field. I enjoy building projects independently and collaborating in a team environment.</h3>
+<h3 align="center">I am an 18-year-old aspiring FullStack Developer, currently in my final year of high school. I am passionate about learning and growing in the IT field. I enjoy building projects independently and collaborating in a team environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=george-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="george-frontend" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=george-frontend" alt="george-frontend" /></a> </p>
 
 - 🌱 I’m currently learning **HTML | CSS | JavaScript | React**
 
