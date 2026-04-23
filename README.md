@@ -45,6 +45,7 @@ I'm a 19-year-old developer with a strong focus on building clean and maintainab
 ## 🌐 Connect
  
 - 📧 gulubovgeorge@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/george-gulubov-415466332/)
 ---
  
 ## 📊 GitHub Stats
