@@ -47,16 +47,5 @@ I'm a 19-year-old developer with a strong focus on building clean and maintainab
  
 - 📧 gulubovgeorge@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/george-gulubov-415466332/)
----
- 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=george-frontend&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-frontend&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
----
  
 *Open to collaboration and new opportunities.*
