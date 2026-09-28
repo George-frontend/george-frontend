@@ -23,7 +23,6 @@ I'm a 19-year-old developer with a strong focus on building clean and maintainab
 **Tools:**
  
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](https://chakra-ui.com/)
  
 ---
  
