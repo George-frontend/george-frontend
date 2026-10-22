@@ -30,13 +30,13 @@ I'm a 19-year-old developer with a strong focus on building clean and maintainab
  
 | Program | Institution | Status |
 |---------|-------------|--------|
-| Alpha JS | Telerik Academy | 🟡 In Progress |
+| Alpha JS | Telerik Academy | ✅ Graduated · October 2026 |
  
 ---
  
 ## 🎯 Goals
  
-- Complete the Alpha JS program at Telerik Academy
+✅ Complete the Alpha JS program at Telerik Academy
 - Deepen knowledge in Node.js and backend development
 - Transition into a Full Stack Developer role
 ---
